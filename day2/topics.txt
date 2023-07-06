@@ -1,0 +1,6 @@
+How to define a class ?
+How to create an object to a particular class ?
+How to assign/update values to the members of the class ?
+How to define a method inside a class ?
+How to pass parameters to the method ?
+How to return a value from a method ?
